@@ -49,7 +49,7 @@ Main staking contract that handles:
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd StackingProtocol
+cd StakingProtocol
 ```
 
 2. Install dependencies:
